@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DMKuldeep
 - 👀 I’m interested in CODING 
 - 🌱 I’m currently learning FULL STACK
-- 💞️ I’m looking to collaborate WITH MNC
+- 💞️ I’m open to work
 - 📫 How to reach me +91-8004539892
 
 <!---
