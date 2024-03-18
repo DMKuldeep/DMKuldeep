@@ -12,13 +12,19 @@ Phone: +91-8004539892
 Email: tkuldeep271@gmail.com
 
 
-Skills
-HTML5, CSS3, JavaScript
-React.js, Vue.js, Angular
-Bootstrap, Materialize
-Git, GitHub
+Skills:-
+
+
+HTML5
+CSS3
+JavaScript
+React.js
+Bootstrap
+Git
+GitHub
 Responsive Web Design
 UI/UX Design Principles
-Get in Touch
+
+Get in Touch:
 📫 Feel free to reach out to me via email or phone for collaboration opportunities, project inquiries, or just to say hi!
 
